@@ -1,4 +1,4 @@
 node_modules
 dev.js
 yarn.lock
-dist
+dist.env
